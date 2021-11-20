@@ -116,7 +116,7 @@ section img{
     
 }
 .parallax1 {        
-    background-image: url('image1.jpg');
+    background-image: url('image1.JPG');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
