@@ -116,7 +116,7 @@ section img{
     
 }
 .parallax1 {        
-    background-image: url('../website git/image1.jpg');
+    background-image: url('image1.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -125,7 +125,7 @@ section img{
     content: '';
   }
   .parallax2 {        
-    background-image: url('../website git/image2.jpg');
+    background-image: url('image2.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -134,7 +134,7 @@ section img{
     content: '';
   }
   .parallax3 {        
-    background-image: url('../website git/image3.jpg');
+    background-image: url('image3.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -143,7 +143,7 @@ section img{
     content: '';
   }
   .parallax4 {        
-    background-image: url('../website git/image4.jpg');
+    background-image: url('image4.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -152,7 +152,7 @@ section img{
     content: '';
   }
   .parallax5 {        
-    background-image: url('../website git/image7.jpg');
+    background-image: url('image7.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -161,7 +161,7 @@ section img{
     content: '';
   }
   .parallax6 {        
-    background-image: url('../website git/image6.jpg');
+    background-image: url('image6.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -170,7 +170,7 @@ section img{
     content: '';
   }
   .parallax7 {        
-    background-image: url('../website git/image5.jpg');
+    background-image: url('image5.jpg');
     min-height: 1200px; 
     background-attachment: fixed;
     background-position: center;
@@ -179,7 +179,7 @@ section img{
     content: '';
   }
   .parallax8 {        
-    background-image: url('../website git/image5.jpg');
+    background-image: url('image5.jpg');
     min-height: 800px; 
     background-attachment: fixed;
     background-position: center;
